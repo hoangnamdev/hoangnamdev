@@ -4,7 +4,7 @@ Thank you for visiting my profile.
 I'm a Front-end Developer from 🇻🇳 **Ho Chi Minh, Vietnam**.
 
 ## Personal favorite web projects of mine:
-- <b><a href="https://github.com/hoangnamdev/Dialecture">Dialecture</a> - Language learning app Website.</b>
+- <b><a target=”_blank” href="https://github.com/hoangnamdev/Dialecture">Dialecture</a> - Language learning app Website.</b>
 
 ## My technologies
 ### HTML5:
