@@ -3,8 +3,13 @@
 Thank you for visiting my profile.  
 I'm a Developer based in 🇻🇳 **Ho Chi Minh, Vietnam**.
 
-## Personal favorite web projects of mine:
-- <b><a href="https://github.com/hoangnamdev/Dialecture">Dialecture</a> - Language learning app Website.</b>
+## Some (web) projects of mine:
+- <b><a href="https://github.com/hoangnamdev/Dialecture">Dialecture</a> - Website for a Language Learning app.</b>
+- <b><a href="https://github.com/hoangnamdev/personal-website">Personal website (OLD)</a> - An out-of-commission personal website.</b>
+- <b><a href="https://github.com/hoangnamdev/RobTopGames-website">RobTop Games</a> - A from-scratch reimagination of RobTop Games' website.</b>
+- <b><a href="https://noahblogs.onrender.com/">NoahBlogs</a> - A slick and simple website for personal blogging (though I've yet to really blog on it lol). Helped me learn a lot about the back-end side of things. Might take a few (tens of) seconds to load. No GitHub repository for this one.</b>
+
+
 
 ## My technologies
 ### HTML5:
