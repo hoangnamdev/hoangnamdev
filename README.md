@@ -8,7 +8,7 @@ I'm a Developer based in 🇻🇳 **Ho Chi Minh, Vietnam**.
 - <b><a href="https://github.com/hoangnamdev/RobTopGames-website">RobTop Games</a> - A from-scratch reimagination of RobTop Games' website.</b>
 - <b><a href="https://noahblogs.onrender.com/">NoahBlogs</a> - A slick and simple website for personal blogging (though I've yet to really blog on it lol). Helped me learn a lot about the back-end side of things. Might take a few (tens of) seconds to load. No GitHub repository for this one.</b>
 - <b><a href="https://github.com/hoangnamdev/personal-website">Personal website (OLD)</a> - An out-of-commission personal website.</b>
-<b>(and more to come!)</b>
+- <b>(and more to come!)</b>
 
 
 ## My technologies
