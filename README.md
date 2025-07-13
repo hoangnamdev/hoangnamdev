@@ -1,7 +1,7 @@
 <h1><img src="https://github.com/hoangnamdev/hoangnamdev/assets/125788036/3f9dd30f-65eb-4acf-af5a-39f04fb20520" width="30"/> Hey! Welcome.</h1>
 
 Thank you for visiting my profile.  
-I'm a Front-end Developer from 🇻🇳 **Ho Chi Minh, Vietnam**.
+I'm a Developer based in 🇻🇳 **Ho Chi Minh, Vietnam**.
 
 ## Personal favorite web projects of mine:
 - <b><a href="https://github.com/hoangnamdev/Dialecture">Dialecture</a> - Language learning app Website.</b>
