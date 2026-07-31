@@ -1,4 +1,4 @@
-### Hi, I'm [Your Name] 👋
+### Hi, I'm Hoang Nam 👋
 
 Computer Science Student @ [University of Information Technology (VNUHCM)](https://en.uit.edu.vn/)  
 
