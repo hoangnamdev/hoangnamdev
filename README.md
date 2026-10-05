@@ -1,9 +1,11 @@
-### Hi, I'm Hoang Nam 👋
+### Hoang Nam
 
-Computer Science Student @ [University of Information Technology (VNUHCM)](https://en.uit.edu.vn/)  
+Computer Science @ [UIT (VNU-HCM)](https://en.uit.edu.vn/)  
 
-Interested in **Backend & DevOps**. 
+#### currently:
+- messing with backend services in Python and Node.js.
+- mostly breaking microservices and learning how not to.
 
-- Languages: Vietnamese (Native) • English (IELTS 8.0 - Near-native)
-
-📫 **Connect with me:** [Email](mailto:dh.nam0703@gmail.com) 
+#### reach out:
+- email: [nam.hngdo@gmail.com](mailto:nam.hngdo@gmail.com)
+- LinkedIn: [Nam Do](https://linkedin.com/in/nam-do-9165613a8)
